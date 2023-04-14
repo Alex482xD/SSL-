@@ -1,6 +1,6 @@
 # Sintaxis y Semantica de Lenguaje - (SSL)
-# K2051 
-# 2023  
-# 174 393-4 
-# Tolaba 
-# Alex 
+>* comision: K2051 
+>* ciclo lectivo : 2023  
+>* legajo: 174 393-4 
+>* apellido: Tolaba 
+>* nombre: Alex 
