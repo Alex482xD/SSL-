@@ -1,5 +1,5 @@
 /*  hello.c
-    "Hello Word en C"
+    "Hello World en C"
     Tolaba Alex Brian
     20230417
 */
